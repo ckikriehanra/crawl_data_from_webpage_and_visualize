@@ -1,0 +1,6 @@
+selenium
+pandas
+bs4
+minio
+fastparquet
+apache-airflow-providers-apache-spark
