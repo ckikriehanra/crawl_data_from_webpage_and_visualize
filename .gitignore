@@ -1,6 +1,6 @@
 # Custom
 logs/
-spark/resources/
+# spark/resources/
 document.txt
 
 # Byte-compiled / optimized / DLL files

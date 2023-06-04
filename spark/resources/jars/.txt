@@ -1,0 +1,9 @@
+you should save two jar needed .jar file here:
+hadoop-aws-3.3.1.jar, 
+aws-java-sdk-bundle-1.11.972.jar
+
+here is link in mydrive which has a zip file.
+after down load this file you can unzip it 
+then move two file .jar to ./spark.resources/jars/
+https://drive.google.com/file/d/1oY7eQmjcbNSAqyKdyZ_XJM3LyDO7PR78/view?usp=sharing
+
